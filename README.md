@@ -12,7 +12,8 @@ In the end, though, my greatest takeaway from the program was the technical skil
 ## Code Review
 
 The link below is a short video showing a code review of the artifact I chose to include for all three of my enhancements
-https://youtu.be/yNnlJa9RPXw
+
+<a href="https://youtu.be/yNnlJa9RPXw">Code Review Video</a>
 
 ## Enhancements
 
