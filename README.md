@@ -25,12 +25,11 @@ The artifact I have chosen to showcase all three of my enhancements is the Desti
 I am hosting a live version on the slideshow site <a href="https://snhu.purdy.world">here</a>. I have chosen not to host a live version of my admin SPA. 
 
 ### Software Design and Engineering
-
-The artifact I am using is the Top Five Destination Slideshow that was produced/created in CS 250 – Software Development Lifestyle. In the current state, this artifact is a Java application that displays a slideshow of the top 5 destinations for a travel company’s application. I have chosen this artifact as the basis for all three enhancement categories, but in this milestone, I will focus on the Software Engineering and Desing category. 
+ 
 My plan for enhancement involves doing a full port of this application into a MEAN(MongoDB, Express, Angular, Node.js) stack application. This will showcase my knowledge of current and widely used technologies to implement a user friendly interface that is scalable, maintainable, and secure. Since this milestone is focused on Software Design, my enhancements so far include the creation of the structure I will use for my ported application. This aligns directly with course outcomes 1 and 4. In the case of outcome 1, “Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science”, creating a fullstack application helps build a collaborative environment where a team split into front and back-end developers can simultaneously work on a improve the app as it grows. The backend team can adjust data flow and add components while the front end team can work to polish the UI to appeal to larger audiences. This also improves organizational decision making by avoiding cascading decisions, ie. Making certain changes are less likely to affect other aspects or components of the app. As for outcome 4, “Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database)”, the plan to port to a MEAN stack application uses a well founded technology stack that will help add value to the organization it is intended for by appealing to a larger audience, since it is web based. Porting the app also allows for a more scalable and maintainable solution which allows for future growth and lowering the cost of maintenance. I will also add outcome 5 as an outcome that is touched upon with this enhancement. While, right now, the app_admin section has not been implemented, this will be an Angular SPA(singe page application) with administrative functionality that requires authentication and authorization. 
 During this enhancement, I had realized It has been a while since I had worked through the Fullstack Development course where I first learned how to use and implement the MEAN stack so I had to refresh on most of the process. In the end, I set up most of the design how I remembered it.
 
-<img width="480" height="1238" alt="image" src="https://github.com/user-attachments/assets/d40fc6ac-712a-40db-9f42-723c9c1a3851" />
+<img width=auto height=auto alt="image" src="https://github.com/user-attachments/assets/d40fc6ac-712a-40db-9f42-723c9c1a3851" />
 
 ### Data Structures and Algorithms
 
@@ -50,22 +49,22 @@ Home Page (Slide Three)
 <img width=auto height=auto alt="image" src="https://github.com/user-attachments/assets/ce908721-6ae6-4f79-acc1-31467bf0e644" />
 
 Admin SPA (Pre Login)
-<img width="2879" height="1704" alt="image" src="https://github.com/user-attachments/assets/6e716306-b34a-4ae5-a498-743ea2ffe2ab" />
+<img width=auto height=auto alt="image" src="https://github.com/user-attachments/assets/6e716306-b34a-4ae5-a498-743ea2ffe2ab" />
 
 Admin Login Page
-<img width="2875" height="1106" alt="image" src="https://github.com/user-attachments/assets/e25fc36c-a961-4a10-9a09-7cde028cdf5c" />
+<img width=auto height=auto alt="image" src="https://github.com/user-attachments/assets/e25fc36c-a961-4a10-9a09-7cde028cdf5c" />
 
 Admin SPA (Post Login)
-<img width="2878" height="1634" alt="image" src="https://github.com/user-attachments/assets/02fbb8f1-741c-49d3-98fd-1170e3c0b9eb" />
+<img width=auto height=auto alt="image" src="https://github.com/user-attachments/assets/02fbb8f1-741c-49d3-98fd-1170e3c0b9eb" />
 
 Add Destination Page
-<img width="2874" height="1551" alt="image" src="https://github.com/user-attachments/assets/13c4b817-97f1-43b3-ba2b-44675476cf40" />
+<img width=auto height=auto alt="image" src="https://github.com/user-attachments/assets/13c4b817-97f1-43b3-ba2b-44675476cf40" />
 
 Edit Destination Page
-<img width="2878" height="1305" alt="image" src="https://github.com/user-attachments/assets/d00c9384-438e-4aeb-9942-fcc115635071" />
+<img width=auto height=auto alt="image" src="https://github.com/user-attachments/assets/d00c9384-438e-4aeb-9942-fcc115635071" />
 
 Destinations Collection
-<img width="1898" height="1214" alt="image" src="https://github.com/user-attachments/assets/31ac1a57-1bc3-4ac6-bc77-56d191bba0a5" />
+<img width=auto height=auto alt="image" src="https://github.com/user-attachments/assets/31ac1a57-1bc3-4ac6-bc77-56d191bba0a5" />
 
 User Collection (Notice passwords are salted and hashed)
-<img width="1723" height="614" alt="image" src="https://github.com/user-attachments/assets/a5825500-9b79-4991-bd63-af1aa3fbf24c" />
+<img width=auto height=auto alt="image" src="https://github.com/user-attachments/assets/a5825500-9b79-4991-bd63-af1aa3fbf24c" />
