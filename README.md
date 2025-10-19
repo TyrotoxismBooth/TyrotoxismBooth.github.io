@@ -20,9 +20,9 @@ The artifact I have chosen to showcase all three of my enhancements is the Desti
 
 ### Repository and Site Links
 
-<p href="https://github.com/TyrotoxismBooth/CS499-Artifact-Enhancement"> See the full code of my enhancements here </p>
+<a href="https://github.com/TyrotoxismBooth/CS499-Artifact-Enhancement"> See the full code of my enhancements here </a>
 
-I am hosting a live version on the slideshow site <a href="https://snhu.purdy.world"> here </a>. I have chosen not to host a live version of my admin SPA. 
+I am hosting a live version on the slideshow site <a href="https://snhu.purdy.world">here</a>. I have chosen not to host a live version of my admin SPA. 
 
 ### Software Design and Engineering
 
