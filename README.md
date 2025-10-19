@@ -1,6 +1,13 @@
-
-
 # Andrew Purdy's CS 499 ePortfolio
+
+## Professional Self-Assesment
+
+Hello, my name is Andrew Purdy. I have been attending the SNHU Computer Science program for about two years, before which I attended my local community college to knock out basic courses and even received a certificate in programming. Throughout my educational journey, especially during my time in the Computer Science program, I have gained many skills and perspectives in software development. Of these skills, I feel collaborating in a team environment is one of, if not the most important aspects of moving into a professional software development role. Working as a team to develop software and applications allows for faster development times and greater coverage of business requirements. Learning how to use version control tools, such as GitHub or Bitbucket, has given me a deeper understanding of how team collaboration happens and insights into how to accomplish proper code reviews and the general flow for making changes and additions to a codebase in a team environment. 
+
+Beyond learning about collaboration and teamwork tools, I gained a firm understanding of how to communicate with stakeholders of an application or project. This includes interviews with users of a system to gather business requirements, planning overall system architecture, assumptions, and design constraints. After gathering information, all of the information needs to be put into a software design document that is easy to read, understand, and present to the stakeholders. 
+
+In the end, though, my greatest takeaway from the program was the technical skills I honed throughout my journey. I gained understanding of data structures and algorithms by implementing concepts like linked lists and sorting algorithms. While there are built-in tools and libraries for these in most languages, implementing them from scratch gave me a deep knowledge of how they work under the hood and allowing for proper implementation in my code. I also gained a good understanding of databases, both relational and non-relational, and how to determine when to use one versus the other. The program also offered great insights into security concerns when developing an application. We explored how to secure from common vulnerabilities and the importance of authentication and authorization. Combined, all of the experiences I have had in this program have shaped how I view software development as a whole. From using version control tools to thorough planning of a database, all aspects of a project require care and thought in both planning and implementation. 
+
 
 ## Code Review
 
