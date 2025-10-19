@@ -44,27 +44,28 @@ While the database has been fully designed and implemented, I faced the largest 
 
 ### Pictures of Completed Enhancements
 Home Page (Slide One)
-<img width="2828" height="1359" alt="image" src="https://github.com/user-attachments/assets/88c59c9f-cabd-4f68-a5de-1d98e851d800" />
+<img width=auto height=auto alt="image" src="https://github.com/user-attachments/assets/88c59c9f-cabd-4f68-a5de-1d98e851d800" />
+
 Home Page (Slide Three)
-<img width="2768" height="1343" alt="image" src="https://github.com/user-attachments/assets/ce908721-6ae6-4f79-acc1-31467bf0e644" />
+<img width=auto height=auto alt="image" src="https://github.com/user-attachments/assets/ce908721-6ae6-4f79-acc1-31467bf0e644" />
+
 Admin SPA (Pre Login)
 <img width="2879" height="1704" alt="image" src="https://github.com/user-attachments/assets/6e716306-b34a-4ae5-a498-743ea2ffe2ab" />
+
 Admin Login Page
 <img width="2875" height="1106" alt="image" src="https://github.com/user-attachments/assets/e25fc36c-a961-4a10-9a09-7cde028cdf5c" />
+
 Admin SPA (Post Login)
 <img width="2878" height="1634" alt="image" src="https://github.com/user-attachments/assets/02fbb8f1-741c-49d3-98fd-1170e3c0b9eb" />
+
 Add Destination Page
 <img width="2874" height="1551" alt="image" src="https://github.com/user-attachments/assets/13c4b817-97f1-43b3-ba2b-44675476cf40" />
+
 Edit Destination Page
 <img width="2878" height="1305" alt="image" src="https://github.com/user-attachments/assets/d00c9384-438e-4aeb-9942-fcc115635071" />
+
 Destinations Collection
 <img width="1898" height="1214" alt="image" src="https://github.com/user-attachments/assets/31ac1a57-1bc3-4ac6-bc77-56d191bba0a5" />
+
 User Collection (Notice passwords are salted and hashed)
 <img width="1723" height="614" alt="image" src="https://github.com/user-attachments/assets/a5825500-9b79-4991-bd63-af1aa3fbf24c" />
-
-
-
-
-
-
-
